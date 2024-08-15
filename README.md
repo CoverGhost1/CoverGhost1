@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @CoverGhost1
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 🧒
-- 😄 Pronouns: 
-- ⚡ Fun fact: im is lazy man
+👋 Hey there, I’m @CoverGhost1
 
-<!---
-CoverGhost1/CoverGhost1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Into the dark (but ethical) arts of hacking
+
+🌱 Constantly sharpening my skills in...
+
+💞️ Open to collabs on anything that tickles my curiosity
+
+📫 Wanna reach me? Send a smoke signal... or just DM me 😎
+
+😄 Pronouns: He/His (But honestly, I just go with the flow)
+
+⚡ Fun fact: Master of procrastination but still somehow gets stuff done
